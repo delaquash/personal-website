@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stack
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -30,20 +30,19 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
-  # stackoverflow: your_user_id
-  # twitter: your_username
+  # facebook: @qemmanuel
+  # linkedin: https://www.linkedin.com/in/emmanuel-olaide-231b80a8
+  # medium: @delaquash
+  # stackoverflow: https://stackoverflow.com/users/9936507/emmanuel-olaide
+  # twitter: @delaquash
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: EcmaScript
+    web_url: https://github.com/topics/es6
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
 
-  - name: Web design
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
